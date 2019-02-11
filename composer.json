@@ -1,0 +1,10 @@
+{
+    "name": "bghanem/recaptcha-bundle",
+    "authors": [
+        {
+            "name": "fatma ben ghanem",
+            "email": "fatma.benghanem@etudiant-isi.utm.tn"
+        }
+    ],
+    "require": {}
+}
